@@ -1,5 +1,5 @@
 
-# 🗳️ U.S. Election Tweet Analysis using Java-based Hadoop MapReduce
+# 🗳️ U.S. Election Tweet Analysis using Hadoop MapReduce
 
 This project applies Hadoop's Java-based MapReduce model to analyze public engagement on social media during the 2020 U.S. presidential election. Using scalable batch processing, we extract key insights from over 1.7 million tweets related to Joe Biden and Donald Trump.
 
